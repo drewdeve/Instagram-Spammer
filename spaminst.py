@@ -24,9 +24,7 @@ password = input('Enter your password: ')
 
 file = 'instagramspammer/forex_russia_nk_430_followers.csv'
 
-message = """
-        MSG
-        """
+message = """ MSG """
 
 users = []
 
